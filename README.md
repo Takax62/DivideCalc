@@ -1,2 +1,2 @@
 # DivideCalc
-This app is only for Linux. This is a division calculator. It can divide decimal numbers too!
+This app is only for Linux. This is a division calculator. It can divide decimal numbers too! Open this .deb file with App Center (Right click/Open with/App Center/Select), this opens App Center, and then, click Install. You can check where it is, by opening Terminal, and typing dpkg -L dividecalc. And the last line will contain the whole directory. Locate to it with cd /Path/To/Dir/dividecalc/ (Replace Path/To/Dir to the directory where it is. The last directory should be dividecalc, and the file's name should be dividecalc.py. Run it with python3 dividecalc.py.)
